@@ -1,0 +1,29 @@
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.aborbrinha {
+  display: flex;
+  min-width: 100%;
+}
+
+.form-field-container {
+  width:30%;
+  align-self: center;
+  margin-top: 20px;
+}
+
+
+
+.table-container {
+  min-width: 80%;
+  margin-bottom: 15px;
+}
+
+.buttons-container {
+  margin-top: 25px;
+}
